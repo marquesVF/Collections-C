@@ -57,3 +57,6 @@ test/hashset_test
 test/array_test
 
 test/deque_test
+
+# OS X
+.DS_Store 
